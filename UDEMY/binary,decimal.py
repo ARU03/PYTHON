@@ -1,0 +1,6 @@
+x=bin(64)
+print(x)
+a=oct(8)
+print(a)
+b=hex(19)
+print(b)
